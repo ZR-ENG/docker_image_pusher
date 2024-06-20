@@ -12,3 +12,4 @@ hanhongyong/ms365-e5-renew-x:latest
 whyour/qinglong:debian
 whyour/qinglong
 --platform=linux/arm64 xiaoyaliu/alist
+jeessy/ddns-go
