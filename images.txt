@@ -1,15 +1,7 @@
-alpine
-kasmweb/nginx:1.25.3
-python:alpine3.19
-whyour/qinglong:2.10
-stilleshan/frpc
-stilleshan/frps
-whyour/qinglong:2.17.3
-linuxserver/firefox:version-116.0-r0
-jeessy/ddns-go:v6.5.0
-snowdreamtech/frpc:0.58.0
-hanhongyong/ms365-e5-renew-x:latest
-whyour/qinglong:debian
-whyour/qinglong
+nginx
+#支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+#支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-jeessy/ddns-go
+mzz2017/v2raya:v2.2.5
