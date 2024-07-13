@@ -1,2 +1,1 @@
-gdy666/lucky:2.10.5
-gdy666/lucky:2.9.0
+snowdreamtech/frpc:0.59.0
