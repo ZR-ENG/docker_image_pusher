@@ -1,1 +1,1 @@
---platform arm64 mzz2017/v2raya:v2.2.5
+whyour/qinglong:2.15.17
